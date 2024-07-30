@@ -7,6 +7,7 @@ This project aims to enhance road safety by using computer vision to detect helm
 * streamlit==1.37.0
 * ultralytics==8.0.196
 * Python==3.12.4
+* YOLOv8
 
 ### To run the program :
 `>>>streamlit run projectUI.py`
@@ -45,7 +46,7 @@ I created a simple UI to display the output, which is illustrated in the followi
 Helmet_Detection_and_Traffic_Signal_Control_using_Computer_Vision was developed by :
 
 * [@saisijjugarlapati](https://github.com/saisijjugarlapati)
-* Repository : https://github.com/saisijjugarlapati/Helmet_Detection_and_Traffic_Signal_Control_using_Computer_Vision
+* LinkedIn : https://www.linkedin.com/in/saisijjugarlapati/
 * Feedback :
 For any feedback or queries, please reach out to me at gssr2593@gmail.com
 
