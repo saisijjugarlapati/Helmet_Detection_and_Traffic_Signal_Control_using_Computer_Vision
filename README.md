@@ -2,11 +2,11 @@
 This project aims to enhance road safety by using computer vision to detect helmetless individuals on two-wheelers through smart cameras. The system dynamically extends the duration of traffic signals for those detected without helmets, while their helmet status is displayed on an LED screen. This method encourages helmet use by highlighting violations and promoting compliance, ultimately helping to reduce accidents and injuries for a safer traffic environment.
 
 ## Requirements
-urllib3==2.2.2
-pillow==10.4.0
-streamlit==1.37.0
-ultralytics==8.0.196
-Python==3.12.4
+* urllib3==2.2.2
+* pillow==10.4.0
+* streamlit==1.37.0
+* ultralytics==8.0.196
+* Python==3.12.4
 
 ## To run the program :
 streamlit run projectUI.py
