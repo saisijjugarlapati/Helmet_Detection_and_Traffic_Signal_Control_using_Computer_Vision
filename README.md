@@ -9,7 +9,7 @@ This project aims to enhance road safety by using computer vision to detect helm
 * Python==3.12.4
 
 ### To run the program :
->>>streamlit run projectUI.py
+`>>>streamlit run projectUI.py`
 
 I created a simple UI to display the output, which is illustrated in the following images:
 ### The sequence of the output is shown in these images:
